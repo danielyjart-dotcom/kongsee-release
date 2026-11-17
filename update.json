@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/danielyjart-dotcom/kongsee-release/releases/download/v2.0.0/KongSee_Setup_2.0.0.exe",
-  "sha256": "9100e74a2a2fd63506432b16827b6d5300c460299601f4748b0ffa5eafb6f9d6",
-  "size": 23753504,
-  "notes": "첫 배포: 그림·DXF·DWG·3D 모델 뷰어, 어두운·밝은 스킨, 자동 업데이트"
+  "version": "2.0.1",
+  "url": "https://github.com/danielyjart-dotcom/kongsee-release/releases/download/v2.0.1/KongSee_Setup_2.0.1.exe",
+  "sha256": "ab55982d471e5b6b4173d41a601f3ce14eee94c58fc74d71433bf7f468538bde",
+  "size": 23815673,
+  "notes": "다국어 지원 (한국어, English, 日本語, 中文, Русский, العربية) · 3D 방향 상자 · 전체 보기 (F11) · 인쇄 (Ctrl+P) · 설치할 때 Visual C++ 재배포 패키지를 Microsoft에서 받아 설치 / Multilingual UI, 3D view box, full view, printing"
 }
