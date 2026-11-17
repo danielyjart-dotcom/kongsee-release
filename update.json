@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/danielyjart-dotcom/kongsee-release/releases/download/v2.0.1/KongSee_Setup_2.0.1.exe",
-  "sha256": "ab55982d471e5b6b4173d41a601f3ce14eee94c58fc74d71433bf7f468538bde",
-  "size": 23815673,
-  "notes": "다국어 지원 (한국어, English, 日本語, 中文, Русский, العربية) · 3D 방향 상자 · 전체 보기 (F11) · 인쇄 (Ctrl+P) · 설치할 때 Visual C++ 재배포 패키지를 Microsoft에서 받아 설치 / Multilingual UI, 3D view box, full view, printing"
+  "version": "2.0.2",
+  "url": "https://github.com/danielyjart-dotcom/kongsee-release/releases/download/v2.0.2/KongSee_Setup_2.0.2.exe",
+  "sha256": "7bbc436b1ec9779e7c7d1bea1e8d7074816e5ebe239a5edb5f7dc98047e2a4c1",
+  "size": 23814212,
+  "notes": "아이콘을 민트색 바탕에 짙은 눈으로 바꿈 · 제품 이름을 콩See로 통일 / New icon colours (mint background), name unified as 콩See"
 }
